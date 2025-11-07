@@ -1,5 +1,4 @@
-### Make_Receipt_Project
----
+# Make_Receipt_Project
 IoT 연구실 학부 스터디 중에 진행한 프로젝트입니다.
 
 서버에서 넘어오는 데이터를 파싱하여 물건 구매 리스트와 영수증을 생성합니다.  
